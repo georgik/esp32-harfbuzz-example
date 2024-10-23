@@ -230,6 +230,8 @@ void* sdl_thread(void* args) {
     int running = 1;
     SDL_Event event;
 
+    printf("Entering main loop...\n");
+
     // Main loop
     while (running) {
         // Event handling
