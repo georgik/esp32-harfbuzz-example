@@ -1,6 +1,6 @@
 # Example of Harfbuzz for ESP32
 
-![Test Status](https://github.com/georgik/esp32-harfbuzz-test/actions/workflows/test.yml/badge.svg)
+![Test Status](https://github.com/georgik/esp32-harfbuzz-example/actions/workflows/test.yml/badge.svg)
 
 
 ## On-line Demo Simulation
